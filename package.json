@@ -1,0 +1,15 @@
+{
+  "name": "sharp-osk",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["osk", "on-screen-keyboard", "html screen keyboard", "jquery on-screen keyboard"],
+  "author": "Albert Omwega",
+  "license": "ISC",
+  "linkmaintainers":[
+    {
+      "name" : "Albert Omwega",
+          "email" : "alboomdj@gmail.com",
+          "url" : "https://github.com/alboom25"
+  }
+]
+}
