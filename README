@@ -18,3 +18,6 @@ $(document).ready(function (e) {
     $(this).initializeSharpOsk();            
 });
 ```
+## Images
+
+![alt text](https://github.com/alboom25/sharp-osk/blob/main/screen-shot.jpg?raw=true)
