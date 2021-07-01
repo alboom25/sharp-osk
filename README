@@ -1,4 +1,3 @@
-
 # Sharp OSK
 
 This is a JQuery on-screen keyboard for HTML applications.
@@ -20,4 +19,4 @@ $(document).ready(function (e) {
 ```
 ## Images
 
-![alt text](https://github.com/alboom25/sharp-osk/blob/main/screen-shot.jpg?raw=true)
+![alt text](https://github.com/alboom25/sharp-osk/blob/master/screen-shot.jpg?raw=true)
